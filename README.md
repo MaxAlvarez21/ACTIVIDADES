@@ -6,3 +6,4 @@ De momento llevo:
 - Captura dee pantalla de la terminal de CMDER ejecutandose desde VSCode.
 - Lista de los comandos que hemos usado hasta el momento (de los que me acuerdo).
 - Ejercicio de nuestra primer clase para comprender el concepto de metodos y como se usan.
+- Certificado de ejercicios de python con circulitos.
