@@ -8,3 +8,4 @@ De momento llevo:
 - Ejercicio de nuestra primer clase para comprender el concepto de metodos y como se usan.
 - Certificado de ejercicios de python con circulitos.
 - 11 ejercicios de ipynb
+- El hangman
