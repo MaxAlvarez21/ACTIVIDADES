@@ -1,0 +1,1 @@
+words = ["pato", "gato", "perro", "una palabra"]
